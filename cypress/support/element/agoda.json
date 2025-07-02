@@ -1,0 +1,32 @@
+{
+    "flightTab" : "//li[@id='tab-flight-tab']",
+    "flightOriginInput" : "//input[@id='flight-origin-search-input']",
+    "flightDestinationInput" : "//input[@id='flight-destination-search-input']",
+    "flightOptions" : "//ul[@role='listbox']",
+    "datePickerNextDay" : "//div[@class='PriceSurgePicker-Day PriceSurgePicker-Day__Wide today']/following-sibling::div[1]",
+    "searchButton" : "//button[@data-test='SearchButtonBox']",
+
+    "sortByButton" : "//p[@id='sort-options-label']",
+    "sortByOptions" : "//li[@role='presentation']",
+    "selectAirline" : "//button[@data-element-name='flight-detail-select-button']",
+
+    "contactFirstName" : "//input[@data-testid='contact.contactFirstName']",
+    "contactLastName" : "//input[@data-testid='contact.contactLastName']",
+    "contactEmail" : "//input[@data-testid='contact.contactEmail']",
+    "contactPhoneNumber" : "//input[@id='contact.contactPhoneNumber']",
+    "passenggerGender" : "//input[@autocomplete='sex']",
+    "passengerFirstName" : "//input[@data-testid='flight.forms.i0.units.i0.passengerFirstName']",
+    "passengerLastName" : "//input[@data-testid='flight.forms.i0.units.i0.passengerLastName']",
+    "passengerBirthDate" : "//input[@data-testid='flight.forms.i0.units.i0.passengerDateOfBirth-DateInputDataTestId']",
+    "passengerBirthMonth" : "//button[@aria-haspopup='listbox']",
+    "passengerBirthMonthSelect" : "//ul[@role='listbox']/li",
+    "passengerBirthYear" : "//input[@data-testid='flight.forms.i0.units.i0.passengerDateOfBirth-YearInputDataTestId']",
+    "selectNationality" : "//p[@data-testid='typography-type-2']",
+    "passportNumber" : "//input[@data-testid='flight.forms.i0.units.i0.passportNumber']",
+    "passportExpiryDate" : "//input[@data-testid='flight.forms.i0.units.i0.passportExpiryDate-DateInputDataTestId']",
+    "passportExpiryYear" : "//input[@data-testid='flight.forms.i0.units.i0.passportExpiryDate-YearInputDataTestId']",
+    "addOnsButton" : "//div[@data-testid='kite-box']//button[@data-component='flight-continue-to-addOns-button']",
+    "protectionYesButton" : "//div[@data-testid='radio-button-option-no']",
+    "paymentButton" : "//button[@data-testid='continue-to-payment-button']",
+    "declineInsuranceButton" : "//button[@data-element-name='decline-button']"  
+}
