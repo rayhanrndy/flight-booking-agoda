@@ -20,7 +20,7 @@ This project performs:
 
 ## 🛠 Installation
 Clone this repo and install dependencies:
-git clone https://github.com/your-username/agoda-flight-booking.git
+git clone https://github.com/rayhanrndy/flight-booking-agoda.git
 cd agoda-flight-booking
 npm install
 
